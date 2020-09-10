@@ -154,3 +154,4 @@ C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\obj
 C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\obj\Debug\netcoreapp3.1\QuoteManagement.genruntimeconfig.cache
 C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\obj\Debug\netcoreapp3.1\QuoteManagement.csprojAssemblyReference.cache
