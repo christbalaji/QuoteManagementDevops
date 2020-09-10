@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteManagement", "QuoteManagement.csproj", "{5ECB27E5-EEAA-44C7-AE98-0141B47E19DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECB27E5-EEAA-44C7-AE98-0141B47E19DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECB27E5-EEAA-44C7-AE98-0141B47E19DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECB27E5-EEAA-44C7-AE98-0141B47E19DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECB27E5-EEAA-44C7-AE98-0141B47E19DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C47502F-CD1A-470A-80F2-37E9873306B6}
+	EndGlobalSection
+EndGlobal
