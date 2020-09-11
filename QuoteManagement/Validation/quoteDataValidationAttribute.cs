@@ -40,7 +40,7 @@ namespace QuoteManagement.Validation
                 }
                 else
                 {
-                    return new ValidationResult("Pension Silver should have minimum retirement age is 60 and investment amount is 500000");
+                    return new ValidationResult("Pension Platinum should have minimum retirement age is 60 and investment amount is 500000");
                 }
             }
             return ValidationResult.Success;

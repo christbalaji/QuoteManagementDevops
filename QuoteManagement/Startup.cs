@@ -7,9 +7,11 @@ using QuoteManagement.Data;
 using QuoteManagement.Interface;
 using QuoteManagement.Service;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics.CodeAnalysis;
 
 namespace QuoteManagement
 {
+    [ExcludeFromCodeCoverage]
     public class Startup
     {
         public Startup(IConfiguration configuration)
