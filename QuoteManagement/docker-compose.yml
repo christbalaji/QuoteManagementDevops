@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  quotemanagement:
+    image: ${DOCKER_REGISTRY-}quotemanagement
+    build:
+      context: .
+      dockerfile: Dockerfile
