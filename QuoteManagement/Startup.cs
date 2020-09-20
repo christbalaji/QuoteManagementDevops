@@ -27,6 +27,8 @@ namespace QuoteManagement
             services.AddControllers();
 
             services.AddDbContext<QuoteManagementContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<QuoteManagementContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("QuoteManagementContext")));
             services.AddTransient<IQuoteDetailsService, QuoteDetailsService>();
         }
