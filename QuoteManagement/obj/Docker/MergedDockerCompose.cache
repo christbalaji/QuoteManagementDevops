@@ -11,6 +11,6 @@ services:
     - 80/tcp
     - 443/tcp
     volumes:
-    - C:\Users\dotnetcloudmc65\AppData\Roaming\ASP.NET\Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
-    - C:\Users\dotnetcloudmc65\AppData\Roaming\Microsoft\UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+    - C:\Users\dotnetcloudmc65\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\dotnetcloudmc65\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
 version: '3.4'
