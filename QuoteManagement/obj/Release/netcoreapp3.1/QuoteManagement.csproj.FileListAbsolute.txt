@@ -166,4 +166,3 @@ C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\obj
 C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\obj\Release\netcoreapp3.1\QuoteManagement.dll
 C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\obj\Release\netcoreapp3.1\QuoteManagement.pdb
 C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\obj\Release\netcoreapp3.1\QuoteManagement.genruntimeconfig.cache
-C:\Users\dotnetcloudmc65\source\repos\ClientManagementDevops\QuoteManagement\obj\Release\netcoreapp3.1\QuoteManagement.csprojAssemblyReference.cache

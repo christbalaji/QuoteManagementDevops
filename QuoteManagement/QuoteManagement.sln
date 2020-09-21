@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuoteManagement", "QuoteMan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuoteManagementTest", "..\QuoteManagementTest\QuoteManagementTest.csproj", "{EDF4C8AE-8EE4-4B2E-BF2C-2EE4DE12028E}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F6697612-3316-4FD6-B94F-9955299C4730}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{EDF4C8AE-8EE4-4B2E-BF2C-2EE4DE12028E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDF4C8AE-8EE4-4B2E-BF2C-2EE4DE12028E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDF4C8AE-8EE4-4B2E-BF2C-2EE4DE12028E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F6697612-3316-4FD6-B94F-9955299C4730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6697612-3316-4FD6-B94F-9955299C4730}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6697612-3316-4FD6-B94F-9955299C4730}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6697612-3316-4FD6-B94F-9955299C4730}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
